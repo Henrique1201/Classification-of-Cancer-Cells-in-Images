@@ -1,4 +1,5 @@
 venv/
 Data/
+DATA_CLEANED/
 archive.zip
 __pycache__/
